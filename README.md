@@ -33,8 +33,6 @@ On macOS or Linux
 
 Want to contribute? Great!
 
-The ERC20 Smart Contract Dashboard uses plain HTML5 standards, try to stay with the HTML5 spec.
-
 License
 ----
 
